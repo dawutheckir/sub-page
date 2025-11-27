@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sub Page</title>
+</head>
+<body>
+<h1>Hello! Page works without VPN 🎉</h1>
+<p>Если ты видишь это — Cloudflare Pages работает!</p>
+</body>
+</html>
